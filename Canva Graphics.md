@@ -5,8 +5,8 @@
 ![Iceland Tourism  Infographic](https://user-images.githubusercontent.com/113537167/192315653-d89577d2-faf6-487d-a382-5f16af82d1b5.jpg)
 Lehigh University Acceptance Rate 2015-2021
 <br/>
-<img src=https://user-images.githubusercontent.com/113537167/191553383-0bb7b78a-a0ec-4030-9ec3-0a94d9d3586e.jpg width="800" height="500">
+<img src=https://user-images.githubusercontent.com/113537167/191553383-0bb7b78a-a0ec-4030-9ec3-0a94d9d3586e.jpg width="800" height="550">
 <br/>
 Iceland Tourism
 <br/>
-<img src=https://user-images.githubusercontent.com/113537167/192315653-d89577d2-faf6-487d-a382-5f16af82d1b5.jpg width="1000" height="1500">
+<img src=https://user-images.githubusercontent.com/113537167/192315653-d89577d2-faf6-487d-a382-5f16af82d1b5.jpg width="800" height="1000">
