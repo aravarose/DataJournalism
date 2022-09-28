@@ -1,4 +1,4 @@
-#Timelines
+# Timelines
 ---
 <br/>
 In-Class Lehigh-Lafayette Rivalry Timeline
