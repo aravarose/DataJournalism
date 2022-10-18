@@ -1,17 +1,24 @@
 # Charts and Graphs
+#### Bar Graph - Undergrad Enrollment (Canva) <br/>
 ![Bar Graph - Undergrad Enrollment (Canva)](https://github.com/aravarose/aravarose.github.io/blob/main/Bar%20Graph%20-%20Undergrad%20Enrollment%20(Canva).jpg)
 <br/>
+#### Contraceptive Care Use for Women in California in 2014 (Flourish) <br/>
 ![Contraceptive Care Use for Women in California in 2014 (Flourish)](https://github.com/aravarose/aravarose.github.io/blob/main/Contraceptive%20Care%20Use%20for%20Women%20in%20California%20in%202014%20(Flourish).png)
 <br/>
+#### Line Chart (ChartBuilder) <br/>
 ![Line Chart (ChartBuilder)](https://github.com/aravarose/aravarose.github.io/blob/main/Line%20Chart%20-%20ChartBuilder.png)
 <br/>
+#### Line Chart (Datawrapper) <br/>
 ![Line Chart (Datawrapper)](https://github.com/aravarose/aravarose.github.io/blob/main/Line%20Chart%20-%20Datawrapper.png)
 <br/>
+#### Scatter Plot (Datawrapper) <br/>
 ![Scatter Plot (Datawrapper)](https://github.com/aravarose/aravarose.github.io/blob/main/Scatter%20Plot%20-%20Datawrapper.png)
 <br/>
+#### Time Series Chart - Contraceptive Use Women 15-20 Years Old (Datawrapper) <br/>
 ![Time Series Chart - Contraceptive Use Women 15-20 Years Old (Datawrapper)](https://github.com/aravarose/aravarose.github.io/blob/main/Time%20Series%20Chart%20-%20Contraceptive%20Use%20Women%2015-20%20Years%20Old.png)
 <br/>
-![Time Series Chart - Contraceptive Use Women 21-44 Years Old (Datawrapper](https://github.com/aravarose/aravarose.github.io/blob/main/Time%20Series%20Chart%20-%20Contraceptive%20Use%20Women%2021-44%20Years%20Old.png)
+#### Time Series Chart - Contraceptive Use Women 21-44 Years Old (Datawrapper) <br/>
+![Time Series Chart - Contraceptive Use Women 21-44 Years Old (Datawrapper)](https://github.com/aravarose/aravarose.github.io/blob/main/Time%20Series%20Chart%20-%20Contraceptive%20Use%20Women%2021-44%20Years%20Old.png)
 
 
 # Timelines
